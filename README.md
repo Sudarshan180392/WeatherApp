@@ -34,16 +34,5 @@ An interactive weather application that provides real-time weather information a
 - API failure alerts
 - Loading indicators for AI responses
 
-## Security Note
-API keys are used for demonstration purposes only.  
-In production, keys should be stored securely on the server and accessed via backend APIs.
-
-## Future Improvements
-- Weather forecast support
-- Temperature unit toggle (°C / °F)
-- Location auto-detection
-- Backend proxy for secure API handling
-- UI enhancements and animations
-
 ## Project Motivation
 Built to explore real-world API integration and practical AI usage in frontend applications by combining deterministic APIs with generative AI.
