@@ -47,7 +47,7 @@ async function getAISuggestions(location, condition, temp) {
 }
 async function fetchData(target) {
   try {
-    const url = `http://api.weatherapi.com/v1/current.json?key=47f86a96d9874b7591e22147251805&q=${target}&aqi=yes`;
+    const url = `https://api.weatherapi.com/v1/current.json?key=47f86a96d9874b7591e22147251805&q=${target}&aqi=yes`;
     
     const response = await fetch(url);
     
