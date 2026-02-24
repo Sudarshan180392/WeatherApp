@@ -1,4 +1,4 @@
-# AI-Enhanced Weather Application
+# AI-Enhanced Weather Application ( https://sudarshan180392.github.io/WeatherApp/ )
 
 An interactive weather application that provides real-time weather information along with AI-generated safety tips and contextual suggestions using Google Gemini.
 
@@ -36,3 +36,6 @@ An interactive weather application that provides real-time weather information a
 
 ## Project Motivation
 Built to explore real-world API integration and practical AI usage in frontend applications by combining deterministic APIs with generative AI.
+
+Image: <img width="1461" height="617" alt="image" src="https://github.com/user-attachments/assets/b70b8a75-9d56-4a7e-9ba8-38bad59f3c68" />
+
