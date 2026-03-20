@@ -1,4 +1,4 @@
-# AI-Enhanced Weather Application ( https://sudarshan180392.github.io/WeatherApp/ )
+# Weather Application ( https://sudarshan180392.github.io/WeatherApp/ )
 
 An interactive weather application that provides real-time weather information.
 
